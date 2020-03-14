@@ -4,7 +4,7 @@ Gallery showing or hiding images regarding to entered tags (build with JS (ES5) 
 ![Project screenshot](/images/project_screen.jpg)
 
 # Live demo
-
+https://bartoszkalota.github.io/Gallery-with-filter/
 
 # Information
 The aim of this project was to use JavaScript in ES5 standard. The ES6 standard is utilized in projects including at least Workshop-4 in their titles.
